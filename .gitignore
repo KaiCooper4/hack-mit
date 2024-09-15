@@ -16,3 +16,4 @@ TODOs.md
 .eslintcache
 
 .env.local
+**/convex/_generated/**
